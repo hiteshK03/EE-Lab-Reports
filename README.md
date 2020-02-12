@@ -1,4 +1,3 @@
-# EELab-Reports
 # EE 230 - Analog Lab
 These are the reports made for the experiments performed in the analog lab\
 Lab1 - Non-idealities in Op-amps\
