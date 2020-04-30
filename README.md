@@ -15,3 +15,4 @@ These are the reports made for the experiments performed in the machines lab
 * Lab1 - Power Analysis in balanced 3 phase circuits
 * Lab2 - Open Circuit (OC) and Short Circuit (SC) Tests on Single Phase Transformer
 * Lab3 - Characteristics of DC Generators
+* Lab4 - Characteristics of Separately Excited DC motor
